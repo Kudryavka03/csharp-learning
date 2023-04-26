@@ -1,0 +1,16 @@
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.csproj.AssemblyReference.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.AssemblyInfoInputs.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.AssemblyInfo.cs
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.csproj.CoreCompileInputs.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\bin\Debug\net5.0\GenericExample1.exe
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\bin\Debug\net5.0\GenericExample1.deps.json
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\bin\Debug\net5.0\GenericExample1.runtimeconfig.json
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\bin\Debug\net5.0\GenericExample1.runtimeconfig.dev.json
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\bin\Debug\net5.0\GenericExample1.dll
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\bin\Debug\net5.0\GenericExample1.pdb
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.dll
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\refint\GenericExample1.dll
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.pdb
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\GenericExample1.genruntimeconfig.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\GenericExample1\GenericExample1\obj\Debug\net5.0\ref\GenericExample1.dll
