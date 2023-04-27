@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\DocumentManager\\DocumentManager\\DocumentManager.csproj",
+      "projectUniqueName": "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\DocumentManager\\DocumentManager\\DocumentManager.csproj",
       "projectName": "DocumentManager",
-      "projectPath": "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\DocumentManager\\DocumentManager\\DocumentManager.csproj",
+      "projectPath": "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\DocumentManager\\DocumentManager\\DocumentManager.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\DocumentManager\\DocumentManager\\obj\\",
+      "outputPath": "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\DocumentManager\\DocumentManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
