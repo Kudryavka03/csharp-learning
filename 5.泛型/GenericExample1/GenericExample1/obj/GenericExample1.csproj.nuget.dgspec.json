@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj": {}
+    "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj": {
+    "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj",
+        "projectUniqueName": "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj",
         "projectName": "GenericExample1",
-        "projectPath": "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj",
+        "projectPath": "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\GenericExample1\\GenericExample1\\obj\\",
+        "outputPath": "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\GenericExample1\\GenericExample1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

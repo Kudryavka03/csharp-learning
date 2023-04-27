@@ -1,0 +1,16 @@
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\bin\Debug\net5.0\DocumentManager.exe
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\bin\Debug\net5.0\DocumentManager.deps.json
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\bin\Debug\net5.0\DocumentManager.runtimeconfig.json
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\bin\Debug\net5.0\DocumentManager.runtimeconfig.dev.json
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\bin\Debug\net5.0\DocumentManager.dll
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\bin\Debug\net5.0\DocumentManager.pdb
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.csproj.AssemblyReference.cache
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.AssemblyInfoInputs.cache
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.AssemblyInfo.cs
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.csproj.CoreCompileInputs.cache
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.dll
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\refint\DocumentManager.dll
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.pdb
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\DocumentManager.genruntimeconfig.cache
+D:\Coding\CSharpLearning\csharp-learning\5.泛型\DocumentManager\DocumentManager\obj\Debug\net5.0\ref\DocumentManager.dll

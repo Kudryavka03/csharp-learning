@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7iezvi1dFtkjZ8Oxz79W4PiJk4wLt5jfLRp+5PPHZAZZ/ucz0YouFRqmv8OyvSLQIzLGg5UOOVIL+Fc7iHjjfw==",
+  "dgSpecHash": "qQ/u7NmbDdgizHnjPp0yRjxLoSB0gxDl7C9vHNcuzKPFLfmNykJdbI/PuX8p0EpgfZO00hnoEftd1oQ7dGWrHg==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\CSharpLearning\\csharp-leaning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj",
+  "projectFilePath": "D:\\Coding\\CSharpLearning\\csharp-learning\\5.泛型\\GenericExample1\\GenericExample1\\GenericExample1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -9,29 +9,36 @@ namespace DocumentManager
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var dm = new DocumentManager<Document>();
+            dm.AddDocument(new Document("Title A", "Sample A"));
+            dm.AddDocument(new Document("Title B", "Sample B"));
+            //dm.IsDocumentAvailable ? Console.WriteLine(new Document().Content);
+            if (dm.IsDocumentAvailable)
+            {
+                Document d = dm.GetDocument();
+                Console.WriteLine(d.Content);
+            }
+
         }
-
-
     }
 
-    public class DocumentManager<T>
+    public class DocumentManager<TDocument> where TDocument:IDocument       //这里是一个约束，表示TDocument必须实现IDocument接口，使得这个类只能用于处理IDocument接口的类型防止出现其他问题
     {
-        private readonly Queue<T> _documentQueue = new Queue<T>();
+        private readonly Queue<TDocument> _documentQueue = new Queue<TDocument>();
         private readonly object _lockQueue = new object();
 
-        public void AddDocument(T doc)                              //该方法将一个文档添加到队列中
+        public void AddDocument(TDocument doc)                              //该方法将一个文档添加到队列中
         {
             lock (_lockQueue)
             {
                 _documentQueue.Enqueue(doc);
             }
         }
-        public bool IsDocumentAvailable =>_documentQueue.Count > 0; //如果队列不为空，就返回true
+        public bool IsDocumentAvailable =>_documentQueue.Count > 0;         //如果队列不为空，就返回true
 
-        public T GetDocument()
-        {                                                           //默认情况下，null是不允许赋予给泛型类型的，因为泛型可以实例化为值类型，null只能用于引用类型
-            T doc = default;                                        //将doc初始化null或者0，这就是default的用法
+        public TDocument GetDocument()
+        {                                                                   //默认情况下，null是不允许赋予给泛型类型的，因为泛型可以实例化为值类型，null只能用于引用类型
+            TDocument doc = default;                                        //将doc初始化null或者0，这就是default的用法
             lock (_lockQueue)
             {
                 doc = _documentQueue.Dequeue();
@@ -41,7 +48,7 @@ namespace DocumentManager
         }
         public void DisplayAllDocuments()
         {
-            foreach (T doc in _documentQueue)
+            foreach (TDocument doc in _documentQueue)
             {                                                         
                 Console.WriteLine(((IDocument)doc).Title);          //将类型T强制转换为IDocument接口，以显示标题
             }                                                       //可问题是如果类型T没有实现IDocument接口，强势转换必然导致一个Runtime Exception
