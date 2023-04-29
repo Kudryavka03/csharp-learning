@@ -1,0 +1,16 @@
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\bin\Debug\net5.0\Demo3.exe
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\bin\Debug\net5.0\Demo3.deps.json
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\bin\Debug\net5.0\Demo3.runtimeconfig.json
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\bin\Debug\net5.0\Demo3.runtimeconfig.dev.json
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\bin\Debug\net5.0\Demo3.dll
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\bin\Debug\net5.0\Demo3.pdb
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.csproj.AssemblyReference.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.AssemblyInfoInputs.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.AssemblyInfo.cs
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.csproj.CoreCompileInputs.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.dll
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\refint\Demo3.dll
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.pdb
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\Demo3.genruntimeconfig.cache
+D:\Coding\CSharpLearning\csharp-leaning\5.泛型\Demo3\Demo3\obj\Debug\net5.0\ref\Demo3.dll
