@@ -1,0 +1,16 @@
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\bin\Debug\net5.0\委托Demo1.exe
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\bin\Debug\net5.0\委托Demo1.deps.json
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\bin\Debug\net5.0\委托Demo1.runtimeconfig.json
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\bin\Debug\net5.0\委托Demo1.runtimeconfig.dev.json
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\bin\Debug\net5.0\委托Demo1.dll
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\bin\Debug\net5.0\委托Demo1.pdb
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.csproj.AssemblyReference.cache
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.AssemblyInfoInputs.cache
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.AssemblyInfo.cs
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.csproj.CoreCompileInputs.cache
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.dll
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\refint\委托Demo1.dll
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.pdb
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\委托Demo1.genruntimeconfig.cache
+D:\Coding\CSharpLearning\csharp-learning\8.委托\委托Demo1\委托Demo1\obj\Debug\net5.0\ref\委托Demo1.dll
