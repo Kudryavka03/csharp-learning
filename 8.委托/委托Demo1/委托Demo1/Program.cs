@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace 委托Demo1
 {
-
+    
     //委托其实是个引用类型 说白点他是个类，保存了方法的指针
     //好了，委托学完了
     delegate void PrintDelegate();//定义委托，如果指向的代码有参数那括号里边记得把参数弄上去，默认没返回想返回就改void
@@ -15,7 +15,7 @@ namespace 委托Demo1
         {
             PrintDelegate printDelegate = new PrintDelegate(printInfo);//创建委托实例
             printDelegate();//调用
-            //那我为什么不直接调用还要委托这么麻烦嘛？
+                            //那我为什么不直接调用还要委托这么麻烦嘛？
 
             Console.WriteLine("=======================接下来演示委托=========================");
             List<Student> students = new List<Student>
@@ -26,13 +26,14 @@ namespace 委托Demo1
                 new Student() { id = 4, name = "赵六", price = 700 },
                 new Student() { id = 5, name = "孙七", price = 900 },
                 new Student() { id = 6, name = "周八", price = 1100 }
+
             };
             IsHavePrice isHavePrice = new IsHavePrice(havePrice);
             Student.checkPriceLambda(students, isHavePrice, 499);      //体现delegate的用法依然欠缺
                                                                        //属于是用不着委托的强行给他用了
         }
-
-        public static void printInfo()//我就不用static
+        
+        public static void printInfo()
         {
             Console.WriteLine("printInfo Method Excuted.");
         }
@@ -45,7 +46,6 @@ namespace 委托Demo1
         public int id { get; set; }
         public string name { get; set; }
         public int price { get; set; }
-
         public static void checkPriceLambda(List<Student> students, IsHavePrice isHavePrice, int judgePrice)
         {
             students.Where(s => isHavePrice(s, judgePrice)).ToList().ForEach(s => Console.WriteLine($"学生{s.name}家里有钱"));
